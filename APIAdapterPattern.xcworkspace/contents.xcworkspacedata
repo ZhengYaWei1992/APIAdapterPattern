@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:AdapterPattern_simple/AdapterPattern_simple.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AppearancePattern/AppearancePattern.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BridgePattern/BridgePattern.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "container:AdapterPattern/AdapterPattern.xcodeproj">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,17 @@
+//
+//  USD.m
+//  AdapterPattern_simple
+//
+//  Created by yunshan on 2018/8/8.
+//  Copyright © 2018年 yunshan. All rights reserved.
+//
+
+#import "USD.h"
+
+@implementation USD
+- (float)obtainUSD
+{
+    return 100.0;
+}
+
+@end
